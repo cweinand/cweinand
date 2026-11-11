@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am a beginner programmer currently learning Python. My goal at the moment is to get better at programming.
 
 <!--
 **cweinand/cweinand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
